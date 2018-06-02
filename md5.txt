@@ -1,0 +1,1 @@
+certutil -hashfile yourfilename.ext MD5

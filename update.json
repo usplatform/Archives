@@ -1,0 +1,13 @@
+{
+  "hasUpdate": true,
+  "isSilent": false,
+  "isForce": false,
+  "isAutoInstall": true,
+  "isIgnorable": true,
+  "updateContent": "1、增加启动界面。\r\n2，支持热插拔USB设备。\r\n3，支持在线升级。\r\n",
+  "versionCode": 2,
+  "versionName": "0.6.2",
+  "url": "https://raw.githubusercontent.com/usplatform/Archives/master/app-release-0.6.2.apk",
+  "md5":"7243e50ff66ab6fde9f299d9a8f698e7",
+  "size": 7115054
+}
